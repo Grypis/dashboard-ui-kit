@@ -20,7 +20,7 @@
                     @content;
                 }
             } @else {
-                @error "";
+                @content;
             }
         }
 
